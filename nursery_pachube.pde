@@ -1,11 +1,10 @@
 /*
- * Arduino + Analog Sensors Posted to Pachube 
- *      Created on: Aug 31, 2011
- *          Author: Victor Aprea
- *   Documentation: http://wickeddevice.com
+ * Nursery Nanode
+ * A sketch to upload sensor data from a Nanode Arduino-compatible device.
  *
- *       Source Revision: 587
+ * http://gareth.halfacree.co.uk
  *
+ * Based on a sketch by Victor Aprea - http://wickeddevice.com
  * Licensed under Creative Commons Attribution-Noncommercial-Share Alike 3.0
  *
  */
